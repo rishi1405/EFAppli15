@@ -1,0 +1,7 @@
+D:\ASP.net_EF\EFAppli15\EFAppli15\obj\Debug\EFAppli15.csprojResolveAssemblyReference.cache
+D:\ASP.net_EF\EFAppli15\EFAppli15\bin\EFAppli15.dll
+D:\ASP.net_EF\EFAppli15\EFAppli15\bin\EFAppli15.pdb
+D:\ASP.net_EF\EFAppli15\EFAppli15\bin\EntityFramework.dll
+D:\ASP.net_EF\EFAppli15\EFAppli15\bin\EntityFramework.xml
+D:\ASP.net_EF\EFAppli15\EFAppli15\obj\Debug\EFAppli15.dll
+D:\ASP.net_EF\EFAppli15\EFAppli15\obj\Debug\EFAppli15.pdb
